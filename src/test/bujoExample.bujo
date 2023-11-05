@@ -1,0 +1,108 @@
+{
+  "week-data": {
+    "week-title": "MY NEW WEEK NAME2dsdsdsdssd",
+    "theme": "GREEN",
+    "max-events": 2,
+    "max-tasks": 105,
+    "sunday-start": true
+  },
+  "schedule-items": [
+    {
+      "name": "a name",
+      "events": [
+        {
+          "name": "task 1",
+          "day-of-week": "day",
+          "description": "event1",
+          "start-time": "start time",
+          "end-time": "end time"
+        },
+        {
+          "name": "task 2",
+          "day-of-week": "day",
+          "description": "event1",
+          "start-time": "start time",
+          "end-time": "end time"
+        }
+      ],
+      "tasks": [
+        {
+          "name": "task 1",
+          "day-of-week": "day",
+          "description": "event1",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "name": "a name",
+      "events": [],
+      "tasks": [
+        {
+          "name": "task 1 day 2",
+          "day-of-week": "day",
+          "description": "event1",
+          "completed": true
+        },
+        {
+          "name": "task 2 day 2",
+          "day-of-week": "day",
+          "description": "event1",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "name": "a name",
+      "events": [],
+      "tasks": [
+        {
+          "name": "task 1 day 3",
+          "day-of-week": "day",
+          "description": "event1",
+          "completed": true
+        },
+        {
+          "name": "task 2 day 3",
+          "day-of-week": "day",
+          "description": "event1",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "name": "day 4",
+      "events": [],
+      "tasks": []
+    },
+    {
+      "name": "day 5",
+      "events": [],
+      "tasks": [
+        {
+          "name": "incomplete",
+          "day-of-week": "Thursday",
+          "description": "",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "name": "day 6 fri",
+      "events": [],
+      "tasks": []
+    },
+    {
+      "name": "day 7 sat",
+      "events": [],
+      "tasks": [
+        {
+          "name": "task 1 day 7",
+          "day-of-week": "day",
+          "description": "event1",
+          "completed": true
+        }
+      ]
+    }
+  ]
+}

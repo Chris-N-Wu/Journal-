@@ -1,0 +1,10 @@
+.root {
+    -fx-font-size: 11pt;
+    -fx-font-family: "Comic Sans MS";
+    -fx-base: rgb(233, 128, 252);
+    -fx-background: rgb(255, 210, 252);
+}
+
+.button {
+    -fx-background-radius: 10;
+}
